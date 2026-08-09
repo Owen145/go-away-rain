@@ -18,3 +18,6 @@ A small arcade game built with Python and Pygame.
 
 pip install -r requirements.txt
 python main.py
+
+
+![Go Away Rain screenshot](goawayrain.png)
